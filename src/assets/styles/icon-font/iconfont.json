@@ -1,0 +1,86 @@
+{
+  "id": "1198577",
+  "name": "YiGuanBoKe",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "949543",
+      "name": "aui-icon-down",
+      "font_class": "aui-icon-down",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1486730",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1622518",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "1634434",
+      "name": "标签",
+      "font_class": "biaoqian1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2310360",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3781957",
+      "name": "icon-right",
+      "font_class": "icon-right",
+      "unicode": "e92c",
+      "unicode_decimal": 59692
+    },
+    {
+      "icon_id": "4966249",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6644822",
+      "name": "icon-left",
+      "font_class": "icon-left",
+      "unicode": "eb31",
+      "unicode_decimal": 60209
+    },
+    {
+      "icon_id": "7733519",
+      "name": "yonghu",
+      "font_class": "yonghu",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "8843325",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8843484",
+      "name": "折叠",
+      "font_class": "zhedie",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}
